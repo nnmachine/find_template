@@ -1,0 +1,5 @@
+f_name1=value1&f_name2=value2
+f_name1=+79251111111&f_name2=example@example.com&f_name3=01.09.1996
+f_name1=value1&f_name2=value2
+f_name1=value1&f_name2=value2
+email_field1=example@gmail.com&phone_field1=+7 925 111 22 33&date_field1=01.09.1996

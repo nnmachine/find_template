@@ -1,0 +1,3 @@
+requests==2.26.0
+django==3.2.6
+tinydb==4.5.1
